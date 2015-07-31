@@ -46,10 +46,4 @@ deactivate
 pip freeze > requirements.txt
 
 
-## Mise en place de OAuth
-pip install django-oauth2-provider
-
-## Installation du module django de creation d'API Rest
-pip install django-tatypie
-
 
